@@ -1564,7 +1564,7 @@
       <tablerow>0</tablerow>
     </card>
     <card>
-      <name>Anna "Dictatrix11" Suljic</name>
+      <name>Anna 'Dictatrix11' Suljic</name>
       <text>Anna may move 2 blood from the blood bank to any vampire as a +1 stealth action. During your unlock phase, you may look at the top three cards of your library.</text>
       <prop>
         <Group>4</Group>
@@ -2768,7 +2768,7 @@
       <tablerow>0</tablerow>
     </card>
     <card>
-      <name>Beatrice "Oracle171" Tremblay</name>
+      <name>Beatrice 'Oracle171' Tremblay</name>
       <text>During your unlock phase, another ready imbued you control takes 1 unpreventable damage. +1 bleed.</text>
       <prop>
         <Group>4</Group>
@@ -4328,7 +4328,7 @@
         <Group>5</Group>
         <Capacity>2</Capacity>
         <Discipline>obt</Discipline>
-        <Artist>Nicolas "Dimple" Bigot</Artist>
+        <Artist>Nicolas 'Dimple' Bigot</Artist>
         <maintype>Crypt</maintype>
         <type>Vampire - Lasombra</type>
       </prop>
@@ -6114,7 +6114,7 @@
       <tablerow>0</tablerow>
     </card>
     <card>
-      <name>Earl "Shaka74" Deams</name>
+      <name>Earl 'Shaka74' Deams</name>
       <text>Earl gets +1 stealth on actions other than actions to enter combat. During your unlock phase, if you control more than two ready imbued, Earl burns 1 conviction [1 CONVICTION].</text>
       <prop>
         <Group>4</Group>
@@ -6632,7 +6632,7 @@
       <tablerow>0</tablerow>
     </card>
     <card>
-      <name>Erick "Shophet125" Franco</name>
+      <name>Erick 'Shophet125' Franco</name>
       <text>If Erick successfully enters combat with a monster as an action, he may gain a conviction [1 CONVICTION] from your hand or ash heap (before combat begins).</text>
       <prop>
         <Group>4</Group>
@@ -7360,7 +7360,7 @@
       <tablerow>0</tablerow>
     </card>
     <card>
-      <name>Francois "Warden" Loehr</name>
+      <name>Francois 'Warden' Loehr</name>
       <text>Other Methuselahs' actions that target Francois cost an additional blood or life.</text>
       <prop>
         <Group>4</Group>
@@ -9138,7 +9138,7 @@
       <tablerow>0</tablerow>
     </card>
     <card>
-      <name>Hiram "Hide" DeVries</name>
+      <name>Hiram 'Hide' DeVries</name>
       <text>Camarilla: While Hiram is ready, actions to burn a location you control cost 1 additional blood.</text>
       <prop>
         <Group>5</Group>
@@ -9656,7 +9656,7 @@
       <tablerow>0</tablerow>
     </card>
     <card>
-      <name>Inez "Nurse216" Villagrande</name>
+      <name>Inez 'Nurse216' Villagrande</name>
       <text>When Inez enters play, you may search your library (shuffle afterward) or hand for a power that requires innocence and put it on her.</text>
       <prop>
         <Group>4</Group>
@@ -9922,7 +9922,7 @@
       <tablerow>0</tablerow>
     </card>
     <card>
-      <name>J. Oswald "Ozzy" Hyde-White</name>
+      <name>J. Oswald 'Ozzy' Hyde-White</name>
       <text>Camarilla primogen: During your unlock phase, roll a 6-sided die. On a 1 or 2, Ozzy gets +1 stealth, on a 5 or 6, Ozzy gets -1 bleed and +1 strength. This effect lasts until your next unlock phase.</text>
       <prop>
         <Group>3</Group>
@@ -9992,7 +9992,7 @@
       <tablerow>0</tablerow>
     </card>
     <card>
-      <name>Jack "Hannibal137" Harmon</name>
+      <name>Jack 'Hannibal137' Harmon</name>
       <text>Jack gets an optional maneuver on the first round of combat.</text>
       <prop>
         <Group>4</Group>
@@ -10342,7 +10342,7 @@
       <tablerow>0</tablerow>
     </card>
     <card>
-      <name>Jason "Son" Newberry</name>
+      <name>Jason 'Son' Newberry</name>
       <text>Camarilla primogen: Jason gets +2 votes when casting votes against blood hunt referendums. +1 bleed.</text>
       <prop>
         <Group>6</Group>
@@ -10482,7 +10482,7 @@
       <tablerow>0</tablerow>
     </card>
     <card>
-      <name>Jennie "Cassie247" Orne</name>
+      <name>Jennie 'Cassie247' Orne</name>
       <text>Any incapacitated imbued may move to the ready region and gain a life (not to exceed his or her starting amount) by burning 2 conviction [2 CONVICTION] during any Methuselah's unlock phase.</text>
       <prop>
         <Group>4</Group>
@@ -10496,7 +10496,7 @@
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>Jennifer "Flame61" Vidisania</name>
+      <name>Jennifer 'Flame61' Vidisania</name>
       <text>Weapons cost Jennifer 1 less pool or blood. +1 bleed. -1 stealth.</text>
       <prop>
         <Group>4</Group>
@@ -10594,7 +10594,7 @@
       <tablerow>0</tablerow>
     </card>
     <card>
-      <name>Jeremy "Wix" Wyzchovsky</name>
+      <name>Jeremy 'Wix' Wyzchovsky</name>
       <text>Camarilla: Jeremy can bleed with +1 bleed as a (D) action.</text>
       <prop>
         <Group>4</Group>
@@ -10804,7 +10804,7 @@
       <tablerow>0</tablerow>
     </card>
     <card>
-      <name>Joe "Boot" Hill</name>
+      <name>Joe 'Boot' Hill</name>
       <text>Sabbat: Joe can enter combat with a werewolf as a +1 stealth (D) action and gets 1 optional maneuver during that combat. Black Hand. +1 strength.</text>
       <prop>
         <Group>4</Group>
@@ -10874,7 +10874,7 @@
       <tablerow>0</tablerow>
     </card>
     <card>
-      <name>John "Cop90" O'Malley</name>
+      <name>John 'Cop90' O'Malley</name>
       <text>John may enter combat with a monster as a (D) action that costs 1 conviction [1 CONVICTION].</text>
       <prop>
         <Group>4</Group>
@@ -12582,7 +12582,7 @@
       <tablerow>0</tablerow>
     </card>
     <card>
-      <name>Leaf "Potter116" Pankowski</name>
+      <name>Leaf 'Potter116' Pankowski</name>
       <text>During your discard phase, Leaf may lock to gain a conviction [1 CONVICTION] from your library (shuffle afterward), hand or ash heap.</text>
       <prop>
         <Group>4</Group>
@@ -12918,7 +12918,7 @@
       <tablerow>0</tablerow>
     </card>
     <card>
-      <name>Liz "Ticket312" Thornton</name>
+      <name>Liz 'Ticket312' Thornton</name>
       <text>Liz doesn't gain a conviction [1 CONVICTION] as normal when entering play.</text>
       <prop>
         <Group>4</Group>
@@ -13506,7 +13506,7 @@
       <tablerow>0</tablerow>
     </card>
     <card>
-      <name>Lupe "Cabbie22" Droin</name>
+      <name>Lupe 'Cabbie22' Droin</name>
       <text>If Lupe has a vehicle, once each action she may burn a conviction [1 CONVICTION] to get +1 stealth or +1 intercept.</text>
       <prop>
         <Group>4</Group>
@@ -14206,7 +14206,7 @@
       <tablerow>0</tablerow>
     </card>
     <card>
-      <name>Marion "Teacher193" Perks</name>
+      <name>Marion 'Teacher193' Perks</name>
       <text>Marion gets an optional press each combat.</text>
       <prop>
         <Group>4</Group>
@@ -16572,7 +16572,7 @@
       <tablerow>0</tablerow>
     </card>
     <card>
-      <name>Ondine "Boudicca" Sinclair</name>
+      <name>Ondine 'Boudicca' Sinclair</name>
       <text>Sabbat. Black Hand: While you have the Edge, Ondine gets +1 stealth when bleeding. +1 strength.</text>
       <prop>
         <Group>5</Group>
@@ -16880,7 +16880,7 @@
       <tablerow>0</tablerow>
     </card>
     <card>
-      <name>Paul "Sixofswords29" Moreton</name>
+      <name>Paul 'Sixofswords29' Moreton</name>
       <text>During your influence phase, you may move a counter from your pool to an imbued in your uncontrolled region.</text>
       <prop>
         <Group>4</Group>
@@ -17062,7 +17062,7 @@
       <tablerow>0</tablerow>
     </card>
     <card>
-      <name>Peter "Outback295" Rophail</name>
+      <name>Peter 'Outback295' Rophail</name>
       <text>While Peter is in combat with a monster, he may burn a conviction [1 CONVICTION] to get a maneuver.</text>
       <prop>
         <Group>4</Group>
@@ -20996,7 +20996,7 @@
       <tablerow>0</tablerow>
     </card>
     <card>
-      <name>Travis "Traveler72" Miller</name>
+      <name>Travis 'Traveler72' Miller</name>
       <text>Travis may move 2 blood from the blood bank to an imbued in your uncontrolled region as a +1 stealth action that costs 1 conviction [1 CONVICTION].</text>
       <prop>
         <Group>4</Group>
@@ -22410,7 +22410,7 @@
       <tablerow>0</tablerow>
     </card>
     <card>
-      <name>Xian "DziDzat155" Quan</name>
+      <name>Xian 'DziDzat155' Quan</name>
       <text>If Xian successfully blocks a monster and is still ready at the end of the action, he may gain a conviction [1 CONVICTION] from your hand or ash heap.</text>
       <prop>
         <Group>4</Group>
@@ -31143,7 +31143,7 @@
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>Felix "Fix" Hessian</name>
+      <name>Felix 'Fix' Hessian</name>
       <text>Unique wraith with 2 life. 1 strength, 1 bleed. Felix can burn a location as a +1 stealth (D) action that costs 1 pool.</text>
       <prop>
         <Artist>Mike Danza</Artist>
@@ -42305,7 +42305,7 @@
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>Scapelli, The Family "Mechanic"</name>
+      <name>Scapelli, The Family 'Mechanic'</name>
       <text>Unique mortal with 3 life. 0 strength, 1 bleed. Scapelli may strike for 2R damage. Once each combat, Scapelli may press to continue combat.</text>
       <prop>
         <Artist>Richard Thomas</Artist>
