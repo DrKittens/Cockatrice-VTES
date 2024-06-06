@@ -49138,7 +49138,7 @@
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>VTES_Demonic Condemnation: Doomed</name>
+      <name>VTES_Demonic Condemnation - Doomed</name>
       <text>+1 stealth action. Condemnation.[obf] (D) Lock a younger vampire.[dai] Requires an Infernal vampire. (D) Put this card on a ready minion. The minion with this card has -1 stealth.[DAI] As [dai] above, and the minion's controller burns 1 pool each time the minion is successfully blocked. NOT FOR LEGAL PLAY</text>
       <prop>
         <Discipline>Daimoinon/Obfuscate</Discipline>
@@ -49150,7 +49150,7 @@
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>VTES_Demonic Condemnation: Languid</name>
+      <name>VTES_Demonic Condemnation - Languid</name>
       <text>+1 stealth action. Condemnation.[pre] (D) Lock a younger vampire.[dai] Requires an Infernal vampire. (D) Put this card on a ready minion. The minion with this card has -1 strength.[DAI] As [dai] above, and the minion cannot use presses in combat. NOT FOR LEGAL PLAY</text>
       <prop>
         <Discipline>Daimoinon/Presence</Discipline>
@@ -49162,7 +49162,7 @@
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>VTES_Demonic Condemnation: Mute</name>
+      <name>VTES_Demonic Condemnation - Mute</name>
       <text>1 stealth action. Condemnation.[chi] (D) Lock a younger vampire.[dai] Requires an infernal vampire. (D) Put this card on a ready vampire. The attached} vampire} gets} -3 votes. Burn all other Condemnations on this minion.[DAI] As [dai]} above, and the attached} vampire burns 1 blood each time a referendum passes. NOT FOR LEGAL PLAY</text>
       <prop>
         <Discipline>Daimoinon/Chimerstry</Discipline>
