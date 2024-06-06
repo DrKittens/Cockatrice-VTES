@@ -26215,7 +26215,7 @@
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>VTES_Cardinal Sin: Failure of Mission</name>
+      <name>VTES_Cardinal Sin - Failure of Mission</name>
       <text>Requires a ready archbishop, cardinal or regent. Only usable when this vampire has blocked a Sabbat vampire without a title, before combat begins. Put this card on that vampire. You still control this card. Any Sabbat vampire controlled by another Methuselah may enter combat with the vampire with this card as a (D) action. Any Sabbat vampire can burn this card as a (D) action.</text>
       <prop>
         <Artist>David Fooden</Artist>
@@ -26226,7 +26226,7 @@
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>VTES_Cardinal Sin: Insubordination</name>
+      <name>VTES_Cardinal Sin - Insubordination</name>
       <text>Requires a ready archbishop, priscus, cardinal or regent. Only usable after a combat involving this vampire and a non-titled Sabbat vampire; only usable if the opposing vampire is ready. Usable by a locked vampire. The opposing vampire goes into torpor.</text>
       <prop>
         <Artist>Michael Astrachan</Artist>
@@ -27256,7 +27256,7 @@
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>VTES_Communal Haven: Cathedral</name>
+      <name>VTES_Communal Haven - Cathedral</name>
       <text>Master: location. You may lock this card during your master phase to transfer equipment andor move blood between any two ready Sabbat vampires you control.</text>
       <prop>
         <Artist>Drew Tucker</Artist>
@@ -27267,7 +27267,7 @@
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>VTES_Communal Haven: Temple</name>
+      <name>VTES_Communal Haven - Temple</name>
       <text>Master: location. Each Sabbat vampire you control gets +1 intercept when attempting to block (D) actions directed against Sabbat vampires you control. A Methuselah may have only one Communal Haven: Temple in play.</text>
       <prop>
         <Artist>Drew Tucker</Artist>
@@ -27393,7 +27393,7 @@
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>VTES_Condemnation: Betrayed</name>
+      <name>VTES_Condemnation - Betrayed</name>
       <text>+1 stealth action. Condemnation. [ser] (D) Lock a younger vampire. [dai] Requires an infernal vampire. (D) Put this card on a ready minion. Bleed actions cost the attached minion 1 additional blood (allies cannot pay blood costs). Burn all other condemnation cards on this minion. [DAI] As [dai] above, and the attached minion's controller burns the top card of their library during their unlock phase.</text>
       <prop>
         <Discipline>Daimoinon/Serpentis</Discipline>
@@ -27405,7 +27405,7 @@
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>VTES_Condemnation: Doomed</name>
+      <name>VTES_Condemnation - Doomed</name>
       <text>+1 stealth action. Condemnation. [obf] (D) Lock a younger vampire. [dai] Requires an Infernal vampire. (D) Put this card on a ready minion. The minion with this card has -1 stealth. Burn all other Condemnations on this minion. [DAI] As [dai] above, and the minion's controller burns 1 pool each time the minion is successfully blocked.</text>
       <prop>
         <Discipline>Daimoinon/Obfuscate</Discipline>
@@ -27417,7 +27417,7 @@
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>VTES_Condemnation: Languid</name>
+      <name>VTES_Condemnation - Languid</name>
       <text>+1 stealth action. Condemnation. [pre] (D) Lock a younger vampire. [dai] Requires an Infernal vampire. (D) Put this card on a ready minion. The minion with this card has -1 strength. Burn all other Condemnations on this minion. [DAI] As [dai] above, and the minion cannot use presses in combat.</text>
       <prop>
         <Discipline>Daimoinon/Presence</Discipline>
@@ -27429,7 +27429,7 @@
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>VTES_Condemnation: Mute</name>
+      <name>VTES_Condemnation - Mute</name>
       <text>+1 stealth action. Condemnation. [chi] (D) Lock a younger vampire. [dai] Requires an infernal vampire. (D) Put this card on a ready vampire. The attached vampire gets -3 votes. Burn all other condemnation cards on this minion. [DAI] As [dai] above, and the attached vampire burns 1 blood each time a referendum passes.</text>
       <prop>
         <Discipline>Daimoinon/Chimerstry</Discipline>
@@ -28020,7 +28020,7 @@
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>VTES_Crusade: Amsterdam</name>
+      <name>VTES_Crusade - Amsterdam</name>
       <text>Requires a Sabbat vampire. Title. If this referendum passes, put this card on the acting vampire to represent the unique Sabbat title of Archbishop of Amsterdam. This could lead to a contested title. If this vampire is Ventrue antitribu, he or she unlocks during your next discard phase.</text>
       <prop>
         <Artist>David Day</Artist>
@@ -28031,7 +28031,7 @@
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>VTES_Crusade: Aragon</name>
+      <name>VTES_Crusade - Aragon</name>
       <text>Requires a Sabbat vampire. Title. If this referendum passes, put this card on the acting vampire to represent the unique Sabbat title of Archbishop of Aragon. If Lucita is in play and is Sabbat, put this card on her instead.</text>
       <prop>
         <Artist>Leif Jones</Artist>
@@ -28042,7 +28042,7 @@
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>VTES_Crusade: Atlanta</name>
+      <name>VTES_Crusade - Atlanta</name>
       <text>Requires a Sabbat vampire. Title. If this referendum passes, put this card on the acting vampire to represent the unique Sabbat title of Archbishop of Atlanta. This could lead to a contested title.</text>
       <prop>
         <Artist>Richard Thomas</Artist>
@@ -28053,7 +28053,7 @@
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>VTES_Crusade: Barcelona</name>
+      <name>VTES_Crusade - Barcelona</name>
       <text>Requires a Sabbat vampire. Title. If this referendum passes, put this card on the acting vampire to represent the unique Sabbat title of Archbishop of Barcelona. This could lead to a contested title. If this vampire is Tremere antitribu, he or she unlocks during your next discard phase.</text>
       <prop>
         <Artist>Drew Tucker</Artist>
@@ -28064,7 +28064,7 @@
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>VTES_Crusade: Berlin</name>
+      <name>VTES_Crusade - Berlin</name>
       <text>Title. Requires a Sabbat vampire. Successful referendum means this card is put on this vampire to represent the unique Sabbat title of Archbishop of Berlin. If this vampire is Lasombra, they unlock during your next discard phase.</text>
       <prop>
         <Artist>Steve Prescott</Artist>
@@ -28075,7 +28075,7 @@
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>VTES_Crusade: Brussels</name>
+      <name>VTES_Crusade - Brussels</name>
       <text>Requires a Sabbat vampire. Title. If this referendum passes, put this card on the acting vampire to represent the unique Sabbat title of Archbishop of Brussels. This could lead to a contested title. If this vampire is Toreador antitribu, he or she unlocks during your next discard phase.</text>
       <prop>
         <Artist>Peter Bergting</Artist>
@@ -28086,7 +28086,7 @@
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>VTES_Crusade: Chicago</name>
+      <name>VTES_Crusade - Chicago</name>
       <text>Requires a Sabbat vampire. Title. If this referendum passes, put this card on the acting vampire to represent the unique Sabbat title of Archbishop of Chicago. This could lead to a contested title.</text>
       <prop>
         <Artist>James Allen Higgins</Artist>
@@ -28097,7 +28097,7 @@
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>VTES_Crusade: Detroit</name>
+      <name>VTES_Crusade - Detroit</name>
       <text>Requires a Sabbat vampire. Title. If this referendum is successful, put this card on the acting vampire to represent the unique Sabbat title of Archbishop of Detroit. This could lead to a contested title.</text>
       <prop>
         <Artist>Clint Langley</Artist>
@@ -28108,7 +28108,7 @@
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>VTES_Crusade: Dublin</name>
+      <name>VTES_Crusade - Dublin</name>
       <text>Requires a Sabbat vampire. Title. If this referendum passes, put this card on the acting vampire to represent the unique Sabbat title of Archbishop of Dublin. This could lead to a contested title. If this vampire is Gangrel antitribu, he or she unlocks during your next discard phase.</text>
       <prop>
         <Artist>Theodore Black</Artist>
@@ -28119,7 +28119,7 @@
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>VTES_Crusade: Frankfurt</name>
+      <name>VTES_Crusade - Frankfurt</name>
       <text>Requires a Sabbat vampire. Title. If this referendum passes, put this card on the acting vampire to represent the unique Sabbat title of Archbishop of Frankfurt. This could lead to a contested title.</text>
       <prop>
         <Artist>Brian LeBlanc</Artist>
@@ -28130,7 +28130,7 @@
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>VTES_Crusade: Geneva</name>
+      <name>VTES_Crusade - Geneva</name>
       <text>Requires a Sabbat vampire. Title. If this referendum passes, put this card on the acting vampire to represent the unique Sabbat title of Archbishop of Geneva. This could lead to a contested title. If this vampire is Malkavian antitribu, he or she unlocks during your next discard phase.</text>
       <prop>
         <Artist>Joel Biske</Artist>
@@ -28141,7 +28141,7 @@
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>VTES_Crusade: Houston</name>
+      <name>VTES_Crusade - Houston</name>
       <text>Requires a Sabbat vampire. Title. If this referendum passes, put this card on the acting vampire to represent the unique Sabbat title of Archbishop of Houston. This could lead to a contested title.</text>
       <prop>
         <Artist>Drew Tucker</Artist>
@@ -28152,7 +28152,7 @@
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>VTES_Crusade: Istanbul</name>
+      <name>VTES_Crusade - Istanbul</name>
       <text>Requires a Sabbat vampire. Title. If this referendum passes, put this card on the acting vampire to represent the unique Sabbat title of Archbishop of Istanbul. This could lead to a contested title. If this vampire is Tzimisce, he or she unlocks during your next discard phase.</text>
       <prop>
         <Artist>Peter Bergting</Artist>
@@ -28163,7 +28163,7 @@
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>VTES_Crusade: London</name>
+      <name>VTES_Crusade - London</name>
       <text>Requires a Sabbat vampire. Title. If this referendum passes, put this card on the acting vampire to represent the unique Sabbat title of Archbishop of London. This could lead to a contested title. If this vampire is Nosferatu antitribu, he or she unlocks during your next discard phase.</text>
       <prop>
         <Artist>Ken Meyer, Jr.</Artist>
@@ -28174,7 +28174,7 @@
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>VTES_Crusade: Mexico City</name>
+      <name>VTES_Crusade - Mexico City</name>
       <text>Requires a Sabbat vampire. Title. If this referendum passes, put this card on the acting vampire to represent the unique Sabbat title of Archbishop of Mexico City. This could lead to a contested title.</text>
       <prop>
         <Artist>Heather J. McKinney</Artist>
@@ -28185,7 +28185,7 @@
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>VTES_Crusade: Miami</name>
+      <name>VTES_Crusade - Miami</name>
       <text>Requires a Sabbat vampire. Title. If this referendum passes, put this card on the acting vampire to represent the unique Sabbat title of Archbishop of Miami. This could lead to a contested title.</text>
       <prop>
         <Artist>Andrew Robinson</Artist>
@@ -28196,7 +28196,7 @@
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>VTES_Crusade: New York</name>
+      <name>VTES_Crusade - New York</name>
       <text>Requires a Sabbat vampire. Title. If this referendum is successful, put this card on the acting vampire to represent the unique Sabbat title of Archbishop of New York. This could lead to a contested title.</text>
       <prop>
         <Artist>Mike Danza</Artist>
@@ -28207,7 +28207,7 @@
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>VTES_Crusade: Paris</name>
+      <name>VTES_Crusade - Paris</name>
       <text>Requires a Sabbat vampire. Title. If this referendum passes, put this card on the acting vampire to represent the unique Sabbat title of Archbishop of Paris. This could lead to a contested title.</text>
       <prop>
         <Artist>Peter Bergting</Artist>
@@ -28218,7 +28218,7 @@
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>VTES_Crusade: Philadelphia</name>
+      <name>VTES_Crusade - Philadelphia</name>
       <text>Requires a Sabbat vampire. Title. If this referendum is successful, put this card on the acting vampire to represent the unique Sabbat title of Archbishop of Philadelphia. This could lead to a contested title.</text>
       <prop>
         <Artist>Dave Seeley</Artist>
@@ -28229,7 +28229,7 @@
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>VTES_Crusade: Pittsburgh</name>
+      <name>VTES_Crusade - Pittsburgh</name>
       <text>Requires a Sabbat vampire. Title. If this referendum is successful, put this card on the acting vampire to represent the unique Sabbat title of Archbishop of Pittsburgh. This could lead to a contested title.</text>
       <prop>
         <Artist>Clint Langley</Artist>
@@ -28240,7 +28240,7 @@
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>VTES_Crusade: Rome</name>
+      <name>VTES_Crusade - Rome</name>
       <text>Requires a Sabbat vampire. Title. If this referendum is successful, put this card on the acting vampire to represent the unique Sabbat title of Archbishop of Rome. This could lead to a contested title. If this vampire is Brujah antitribu, he or she unlocks during your next discard phase.</text>
       <prop>
         <Artist>Brian LeBlanc</Artist>
@@ -28251,7 +28251,7 @@
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>VTES_Crusade: Toronto</name>
+      <name>VTES_Crusade - Toronto</name>
       <text>Requires a Sabbat vampire. Title. If this referendum is successful, put this card on the acting vampire to represent the unique Sabbat title of Archbishop of Toronto. This could lead to a contested title.</text>
       <prop>
         <Artist>Clint Langley</Artist>
@@ -28262,7 +28262,7 @@
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>VTES_Crusade: Washington, D.C.</name>
+      <name>VTES_Crusade - Washington, D.C.</name>
       <text>Requires a Sabbat vampire. Title. If this referendum passes, put this card on the acting vampire to represent the unique Sabbat title of Archbishop of Washington, D.C. This could lead to a contested title. If this vampire is Ventrue antitribu, he or she unlocks during your next discard phase.</text>
       <prop>
         <Artist>Mark Poole</Artist>
@@ -29015,7 +29015,7 @@
       <tablerow>1</tablerow>
     </card>
     <card>
-      <name>VTES_Devil-Channel: Back</name>
+      <name>VTES_Devil-Channel - Back</name>
       <text>[abo] [REFLEX] Cancel a frenzy card played on this vampire as it is played. [abo] Frenzy. This vampire burns 1 blood to get an additional strike (limited) this round, only usable to make a hand strike. [ABO] Frenzy. This vampire gets an additional strike (limited) this round, only usable to make a hand strike.</text>
       <prop>
         <Discipline>Abombwe</Discipline>
@@ -29027,7 +29027,7 @@
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>VTES_Devil-Channel: Feet</name>
+      <name>VTES_Devil-Channel - Feet</name>
       <text>[abo] [REFLEX] Cancel a frenzy card played on this vampire as it is played. [abo] Frenzy (this vampire). Not usable if the opposing minion has flight [FLIGHT]. Strike: dodge with an optional press. [ABO] As above, and this vampire locks an Aye on him or her to unlock.</text>
       <prop>
         <Discipline>Abombwe</Discipline>
@@ -29039,7 +29039,7 @@
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>VTES_Devil-Channel: Hands</name>
+      <name>VTES_Devil-Channel - Hands</name>
       <text>[abo] [REFLEX] Cancel a frenzy card played on this vampire as it is played. [abo] Frenzy. Play before range is determined. For the remainder of the combat, this vampire's hand damage is aggravated. [ABO] As above, with an optional press this round.</text>
       <prop>
         <Discipline>Abombwe</Discipline>
@@ -29051,7 +29051,7 @@
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>VTES_Devil-Channel: Throat</name>
+      <name>VTES_Devil-Channel - Throat</name>
       <text>[abo] [REFLEX] Cancel a frenzy card played on this vampire as it is played. [abo] Frenzy (played on this acting vampire). Only usable when a non-werewolf ally or younger vampire attempts to block. That minion's blocking attempt fails (do not lock that minion). That minion cannot attempt to block this action again. [ABO] As above, but lock that blocking minion.</text>
       <prop>
         <Discipline>Abombwe</Discipline>
@@ -30096,7 +30096,7 @@
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>VTES_Elysium: Sforzesco Castle</name>
+      <name>VTES_Elysium - Sforzesco Castle</name>
       <text>Master: unique location. When a vampire you control blocks a Camarilla vampire, you may lock this card instead of locking the blocking vampire.</text>
       <prop>
         <Artist>Mark Poole</Artist>
@@ -30107,7 +30107,7 @@
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>VTES_Elysium: The Arboretum</name>
+      <name>VTES_Elysium - The Arboretum</name>
       <text>Master: unique location. Only usable when a Camarilla vampire you control is in combat with another Camarilla vampire. You may lock this card before range is determined to end combat. Any Camarilla vampire can call a referendum to burn this card as a +1 stealth political action.</text>
       <prop>
         <Artist>Brian LeBlanc; Margaret Organ-Kean</Artist>
@@ -30118,7 +30118,7 @@
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>VTES_Elysium: The Palace of Versailles</name>
+      <name>VTES_Elysium - The Palace of Versailles</name>
       <text>Unique location. You can lock this card during the polling step of a political action to give each ready titled Camarilla vampire you control +1 vote.</text>
       <prop>
         <Artist>Dave Roach; Pete Burges; Avery Butterworth</Artist>
@@ -31065,7 +31065,7 @@
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>VTES_Fee Stake: Boston</name>
+      <name>VTES_Fee Stake - Boston</name>
       <text>Requires a ready anarch with capacity above 4. +1 stealth action. Title. Put this card on the acting anarch to represent the unique anarch title of Baron of Boston. This may lead to a contested title. If this anarch is Toreador or Toreador antitribu, he or she gets 1 additional vote in referendums he or she calls. Any vampire can call a referendum to burn this card as a +1 stealth political action. In that referendum, non-anarch titles are worth 1 fewer votes.</text>
       <prop>
         <Artist>James Stowe</Artist>
@@ -31076,7 +31076,7 @@
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>VTES_Fee Stake: Corte</name>
+      <name>VTES_Fee Stake - Corte</name>
       <text>Requires a ready anarch with capacity above 4. +1 stealth action. Title. Put this card on the acting anarch to represent the unique anarch title of Baron of Corte. This may lead to a contested title. Any vampire can call a referendum to burn this card as a +1 stealth political action. In that referendum, non-anarch titles are worth 1 fewer votes.</text>
       <prop>
         <Artist>Jeff Holt</Artist>
@@ -31087,7 +31087,7 @@
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>VTES_Fee Stake: Los Angeles</name>
+      <name>VTES_Fee Stake - Los Angeles</name>
       <text>Requires a ready anarch with capacity above 4. +1 stealth action. Title. Put this card on the acting anarch to represent the unique anarch title of Baron of Los Angeles. This may lead to a contested title. Any vampire can call a referendum to burn this card as a +1 stealth political action. In that referendum, non-anarch titles are worth 1 fewer votes.</text>
       <prop>
         <Artist>Jeff "el jefe" Holt</Artist>
@@ -31098,7 +31098,7 @@
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>VTES_Fee Stake: New York</name>
+      <name>VTES_Fee Stake - New York</name>
       <text>Requires a ready anarch with capacity above 4. +1 stealth action. Title. Put this card on the acting anarch to represent the unique anarch title of Baron of New York. This may lead to a contested title. If this anarch is Brujah or Brujah antitribu, he or she gets 1 additional vote in referendums he or she calls. Any vampire can call a referendum to burn this card as a +1 stealth political action. In that referendum, non-anarch titles are worth 1 fewer votes.</text>
       <prop>
         <Artist>Brian LeBlanc; Steve Ellis</Artist>
@@ -31109,7 +31109,7 @@
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>VTES_Fee Stake: Perth</name>
+      <name>VTES_Fee Stake - Perth</name>
       <text>Requires a ready anarch with capacity above 4. +1 stealth action. Title. Put this card on the acting anarch to represent the unique anarch title of Baron of Perth. This may lead to a contested title. Any vampire can call a referendum to burn this card as a +1 stealth political action. In that referendum, non-anarch titles are worth 1 fewer votes.</text>
       <prop>
         <Artist>Brian LeBlanc</Artist>
@@ -31120,7 +31120,7 @@
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>VTES_Fee Stake: Seattle</name>
+      <name>VTES_Fee Stake - Seattle</name>
       <text>Requires a ready anarch with capacity above 4. +1 stealth action. Title. Put this card on the acting anarch to represent the unique anarch title of Baron of Seattle. This may lead to a contested title. If this anarch is Gangrel or Gangrel antitribu, he or she gets 1 additional vote in referendums he or she calls. Any vampire can call a referendum to burn this card as a +1 stealth political action. In that referendum, non-anarch titles are worth 1 fewer votes.</text>
       <prop>
         <Artist>Brian LeBlanc</Artist>
@@ -31231,7 +31231,7 @@
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>VTES_Fifth Tradition: Hospitality</name>
+      <name>VTES_Fifth Tradition - Hospitality</name>
       <text>+1 stealth action. Requires a prince or justicar. Add 4 blood to another vampire.</text>
       <prop>
         <Artist>Melissa Benson; Peter Bergting</Artist>
@@ -31898,7 +31898,7 @@
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>VTES_Fourth Tradition: The Accounting</name>
+      <name>VTES_Fourth Tradition - The Accounting</name>
       <text>+1 stealth action. Requires a prince or justicar. Add 3 blood to a younger vampire in your uncontrolled region.</text>
       <prop>
         <Artist>Mark Poole; Kieran Yanner</Artist>
@@ -32573,7 +32573,7 @@
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>VTES_Golconda: Inner Peace</name>
+      <name>VTES_Golconda - Inner Peace</name>
       <text>Master. Choose a vampire with a capacity 8 or more. Remove that vampire from the game. His or her controller gains pool equal to the vampire's capacity. His or her controller may cancel this card as it is played by burning 2 pool.</text>
       <prop>
         <Artist>Kaja Foglio; James Stowe</Artist>
@@ -33048,7 +33048,7 @@
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>VTES_Haqim's Law: Judgment</name>
+      <name>VTES_Haqim's Law - Judgment</name>
       <text>Contract. Trifle. Lock a ready Independent or Anarch Assamite you control to put this card on a younger vampire. Every Independent or Anarch Assamite is considered chosen for this contract. Any Independent or Anarch Assamite can enter combat with the attached vampire as a +1 stealth (D) action.</text>
       <prop>
         <Artist>Brian LeBlanc</Artist>
@@ -33059,7 +33059,7 @@
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>VTES_Haqim's Law: Leadership</name>
+      <name>VTES_Haqim's Law - Leadership</name>
       <text>+1 stealth action. Each Methuselah who controls any of the oldest ready Assamites gains 2 pool.</text>
       <prop>
         <Artist>Eric Lofgren</Artist>
@@ -33070,7 +33070,7 @@
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>VTES_Haqim's Law: Retribution</name>
+      <name>VTES_Haqim's Law - Retribution</name>
       <text>Put this card in play. During a bleed action, an Assamite you control can discard a combat card to get +1 bleed.</text>
       <prop>
         <Artist>Clint Langley</Artist>
@@ -33585,7 +33585,7 @@
       <tablerow>1</tablerow>
     </card>
     <card>
-      <name>VTES_Highway Haven: RV</name>
+      <name>VTES_Highway Haven - RV</name>
       <text>Vehicle. Haven. This minion gets an optional press to end combat on the first round of combat. If the bearer is an anarch, any vampire attempting a (D) action targeting this anarch doesn't unlock as normal on his or her next unlock phase (even if the action isn't successful). Any werewolf may burn this equipment and enter combat with this minion as a +1 stealth (D) action. A minion may have only one haven and only one vehicle.</text>
       <prop>
         <Artist>Steve Prescott</Artist>
@@ -34732,7 +34732,7 @@
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>VTES_Judgment: Camarilla Segregation</name>
+      <name>VTES_Judgment - Camarilla Segregation</name>
       <text>+1 stealth action. Requires a prince or justicar. Put this card in play. Each Methuselah controlling a non-Camarilla vampire burns 1 pool during their unlock phase. Any Methuselah can burn a non-Camarilla vampire they control during their master phase to burn this card.</text>
       <prop>
         <Artist>Richard Kane Ferguson; Gines Quinonero</Artist>
@@ -34743,7 +34743,7 @@
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>VTES_Judgment: Death to the Brujah!</name>
+      <name>VTES_Judgment - Death to the Brujah!</name>
       <text>Requires a ready prince or justicar. +1 stealth action. Put this card in play. Any vampire may take a (D) action to enter combat with any Brujah controlled by another Methuselah. Any Methuselah may burn this card by burning a Brujah he or she controls during his or her minion phase. Only one Death to the Brujah! card may be played during a game.</text>
       <prop>
         <Artist>L. A. Williams</Artist>
@@ -34887,7 +34887,7 @@
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>VTES_Khabar: Community, The</name>
+      <name>VTES_Khabar - Community, The</name>
       <text>Unique. Put this card in play. Each Assamite gets +1 stealth when bleeding. Any minion can burn this card as a (D) action; Tremere get +1 stealth during that action.</text>
       <prop>
         <Artist>Drew Tucker</Artist>
@@ -34898,7 +34898,7 @@
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>VTES_Khabar: Glory</name>
+      <name>VTES_Khabar - Glory</name>
       <text>+1 stealth action. Unique. Not usable if any non-mandatory actions have been performed this turn. Put this card on this Assamite and unlock them. This Assamite gets +1 bleed. If your prey is ousted, you gain 4 additional pool. Burn this card during your unlock phase.</text>
       <prop>
         <Artist>John Bridges</Artist>
@@ -34909,7 +34909,7 @@
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>VTES_Khabar: Honor, The</name>
+      <name>VTES_Khabar - Honor, The</name>
       <text>Only usable if this Assamite has been chosen for a contract on the opposing minion. Strike: hand strike at +3 damage.</text>
       <prop>
         <Artist>Richard Thomas; Michael Astrachan; Jeff Holt</Artist>
@@ -34920,7 +34920,7 @@
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>VTES_Khabar: Loyalty</name>
+      <name>VTES_Khabar - Loyalty</name>
       <text>+1 stealth action. Add 2 blood to a younger Assamite in your uncontrolled region.</text>
       <prop>
         <Artist>Michael Gaydos</Artist>
@@ -36130,7 +36130,7 @@
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>VTES_Malkavian Derangement: Alternate Personality</name>
+      <name>VTES_Malkavian Derangement - Alternate Personality</name>
       <text>Master. Choose a ready Malkavian. Put this card on the vampire. Each time the Malkavian takes an action, his or her controller flips a coin. If the result is heads, continue with the action. If the result is tails, the action fails: his or her controller burns 1 pool and locks the Malkavian.</text>
       <prop>
         <Artist>Anson Maddocks</Artist>
@@ -36141,7 +36141,7 @@
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>VTES_Malkavian Derangement: Paranoia</name>
+      <name>VTES_Malkavian Derangement - Paranoia</name>
       <text>Master. Put this card on a Malkavian antitribu. The vampire with this card cannot perform actions. Any vampire may burn this card as a (D) action.</text>
       <prop>
         <Artist>Phillip Tan</Artist>
@@ -38495,7 +38495,7 @@
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>VTES_Patagia: Flaps Allowing Limited Flight</name>
+      <name>VTES_Patagia - Flaps Allowing Limited Flight</name>
       <text>+1 stealth action. Put this card on the acting Nosferatu. This vampire gets an optional maneuver each combat. Once each combat, this vampire may burn 1 blood to gain flight [FLIGHT] for the remainder of the round. A vampire may have only 1 Patagia card.</text>
       <prop>
         <Artist>Anson Maddocks; Andrew Trabbold</Artist>
@@ -39339,7 +39339,7 @@
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>VTES_Powerbase: Barranquilla</name>
+      <name>VTES_Powerbase - Barranquilla</name>
       <text>Master: unique location. Put X blood on this card when it is played, where X is the capacity of a ready Sabbat vampire you control. During your unlock phase, you may move 1 blood from this card to your pool. Any vampire may burn this location as a (D) action. Titled vampires get +1 stealth on that action. Burn this card if it has no counters.</text>
       <prop>
         <Artist>Brian LeBlanc</Artist>
@@ -39350,7 +39350,7 @@
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>VTES_Powerbase: Berlin</name>
+      <name>VTES_Powerbase - Berlin</name>
       <text>Master: unique location. You may use a master phase action to move 1 blood from the blood bank to this card. Any Ventrue you control may move 1 blood to this card as a +1 stealth action. You may lock this card and burn X blood from it to give a Ventrue attempting to block a political action +X intercept. Any vampire can call a referendum to steal this card for his or her controller as a +1 stealth political action.</text>
       <prop>
         <Artist>Michael Weaver</Artist>
@@ -39361,7 +39361,7 @@
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>VTES_Powerbase: Cape Verde</name>
+      <name>VTES_Powerbase - Cape Verde</name>
       <text>Unique location. Lock during any Methuselah's master phase to move 1 blood from a ready Giovanni or Laibon you control to your pool or from your pool to a ready vampire you control. Any Giovanni or Laibon can steal this location as a +1 stealth (D) action.</text>
       <prop>
         <Artist>Brad Williams</Artist>
@@ -39372,7 +39372,7 @@
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>VTES_Powerbase: Chicago</name>
+      <name>VTES_Powerbase - Chicago</name>
       <text>Master: unique location. During your unlock phase, you may move 1 blood from the blood bank to this card or move all the blood on this card to your pool. A vampire controlled by another Methuselah can move all the blood on this card to his or her controller's pool as a (D) action.</text>
       <prop>
         <Artist>William O'Connor; Ken Meyer, Jr.</Artist>
@@ -39383,7 +39383,7 @@
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>VTES_Powerbase: Los Angeles</name>
+      <name>VTES_Powerbase - Los Angeles</name>
       <text>Master: unique location. Lock during your discard phase to gain a discard phase action. If you use that discard phase action to discard a card that requires an anarch or a card that makes a vampire an anarch, you may unlock a ready anarch. Any anarch controlled by another Methuselah may steal this location for his or her controller as a (D) action.</text>
       <prop>
         <Artist>Mark Poole</Artist>
@@ -39394,7 +39394,7 @@
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>VTES_Powerbase: Luanda</name>
+      <name>VTES_Powerbase - Luanda</name>
       <text>Master: unique location. Requires a ready Laibon. Lock this card during your master phase and choose a vampire you control. Once this turn, the chosen vampire may enter combat with any minion as a +1 stealth (D) action. Any vampire can steal this location as a (D) action.</text>
       <prop>
         <Artist>Michael Gaydos</Artist>
@@ -39405,7 +39405,7 @@
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>VTES_Powerbase: Madrid</name>
+      <name>VTES_Powerbase - Madrid</name>
       <text>Unique location. If this card has 3 or fewer counters during your unlock phase, you can add 1 counter to it. Lock during the polling step of any referendum to give a titled Sabbat vampire +1 vote for each counter on this card. Any vampire controlled by another Methuselah can burn all the counters from this card as a (D) action.</text>
       <prop>
         <Artist>Drew Tucker</Artist>
@@ -39416,7 +39416,7 @@
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>VTES_Powerbase: Mexico City</name>
+      <name>VTES_Powerbase - Mexico City</name>
       <text>Master: unique location. Put 5 blood on this card when it is played. During each of your unlock phases, move 1 blood from this card to your pool. Any Sabbat vampire controlled by another Methuselah may move all the blood on the Powerbase to his or her controller's pool as a (D) action. Burn this card if it has no blood.</text>
       <prop>
         <Artist>Fred Harper</Artist>
@@ -39427,7 +39427,7 @@
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>VTES_Powerbase: Montreal</name>
+      <name>VTES_Powerbase - Montreal</name>
       <text>Unique location. During your influence phase, you can add 1 blood to a vampire in your uncontrolled region. Any vampire can steal this location as a (D) action.</text>
       <prop>
         <Artist>Patrick Lambert</Artist>
@@ -39438,7 +39438,7 @@
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>VTES_Powerbase: New York</name>
+      <name>VTES_Powerbase - New York</name>
       <text>Master: unique location. As a master phase action, you may burn 1 pool to move 3 blood counters from the blood bank to this card or move 1 blood counter from this card to your pool. Any Sabbat vampire controlled by another Methuselah can take a (D) action to move all the blood on the 'base to his or her controller's blood pool. Burn this card when the last blood counter on it is removed.</text>
       <prop>
         <Artist>Ted Naifeh</Artist>
@@ -39449,7 +39449,7 @@
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>VTES_Powerbase: Rome</name>
+      <name>VTES_Powerbase - Rome</name>
       <text>Unique location. You can use a master phase action to add 1 counter to this card. Any Giovanni you control can move up to 2 blood from themselves to this card as a +1 stealth action. Lock and burn X counters from this card during the polling step of a political action to get +X votes. Any minion can burn all counters from this card as a (D) action.</text>
       <prop>
         <Artist>Greg Simanson</Artist>
@@ -39460,7 +39460,7 @@
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>VTES_Powerbase: Savannah</name>
+      <name>VTES_Powerbase - Savannah</name>
       <text>Master: unique location. Elysium. You may lock any other unique location you control to end combat involving an acting vampire you control before range is chosen. Any vampire may steal this location for his or her controller as a (D) action.</text>
       <prop>
         <Artist>Becky Jollensten</Artist>
@@ -39471,7 +39471,7 @@
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>VTES_Powerbase: Tshwane</name>
+      <name>VTES_Powerbase - Tshwane</name>
       <text>Master: unique location. Requires a ready Laibon. Lock this location to reduce the cost of a card you play by 1 pool (this location is not locked if that card is canceled as it is played). Any Laibon may steal this location for his or her controller as a (D) action.</text>
       <prop>
         <Artist>William O'Connor</Artist>
@@ -39482,7 +39482,7 @@
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>VTES_Powerbase: Washington, D.C.</name>
+      <name>VTES_Powerbase - Washington, D.C.</name>
       <text>Master: unique location. During your unlock phase, you may move up to 3 pool to this card and add 1 blood from the blood bank for each pool you move, or you may move 2 blood from this card to your pool. A vampire controlled by another Methuselah may move all the blood on this card to his or her controller's pool as a (D) action.</text>
       <prop>
         <Artist>William O'Connor; Michael Weaver</Artist>
@@ -39493,7 +39493,7 @@
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>VTES_Powerbase: Zurich</name>
+      <name>VTES_Powerbase - Zurich</name>
       <text>Master: unique location. While you have the Edge, any vampire you control may add 2 blood from the blood bank to a younger vampire in your uncontrolled region as a +1 stealth action. If that action is blocked, burn the Edge (before combat, if any). Any Methuselah may burn the Edge during his or her master phase to steal this card.</text>
       <prop>
         <Artist>Peter Bergting</Artist>
@@ -39515,7 +39515,7 @@
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>VTES_Praxis Seizure: Amsterdam</name>
+      <name>VTES_Praxis Seizure - Amsterdam</name>
       <text>Requires a Camarilla vampire. Title. If this referendum is successful, put this card on the acting vampire to represent the unique Camarilla title of Prince of Amsterdam. This could lead to a contested title.</text>
       <prop>
         <Artist>Michael Weaver</Artist>
@@ -39526,7 +39526,7 @@
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>VTES_Praxis Seizure: Athens</name>
+      <name>VTES_Praxis Seizure - Athens</name>
       <text>Requires a Camarilla vampire. Title. If this referendum is successful, put this card on the acting vampire to represent the unique Camarilla title of Prince of Athens. This could lead to a contested title. If the prince is Tremere, his or her capacity increases by 1.</text>
       <prop>
         <Capacity>Tremere</Capacity>
@@ -39538,7 +39538,7 @@
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>VTES_Praxis Seizure: Atlanta</name>
+      <name>VTES_Praxis Seizure - Atlanta</name>
       <text>Requires a Camarilla vampire. Title. If this referendum is successful, put this card on the acting vampire to represent the unique Camarilla title of Prince of Atlanta.</text>
       <prop>
         <Artist>Josh Timbrook; Jeff Holt</Artist>
@@ -39549,7 +39549,7 @@
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>VTES_Praxis Seizure: Barcelona</name>
+      <name>VTES_Praxis Seizure - Barcelona</name>
       <text>Requires a Camarilla vampire. Title. If this referendum is successful, put this card on the acting vampire to represent the unique Camarilla title of Prince of Barcelona. This could lead to a contested title. If the prince is Tremere, his or her capacity increases by 1.</text>
       <prop>
         <Capacity>Tremere</Capacity>
@@ -39561,7 +39561,7 @@
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>VTES_Praxis Seizure: Berlin</name>
+      <name>VTES_Praxis Seizure - Berlin</name>
       <text>Requires a Camarilla vampire. Title. If this referendum is successful, put this card on the acting vampire to represent the unique Camarilla title of Prince of Berlin. This could lead to a contested title. If the prince is Ventrue, his or her capacity increases by 1.</text>
       <prop>
         <Capacity>Ventrue</Capacity>
@@ -39573,7 +39573,7 @@
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>VTES_Praxis Seizure: Boston</name>
+      <name>VTES_Praxis Seizure - Boston</name>
       <text>Requires a Camarilla vampire. Title. If this referendum is successful, put this card on the acting vampire to represent the unique Camarilla title of Prince of Boston. This could lead to a contested title.</text>
       <prop>
         <Artist>Edward Beard, Jr.; Brian LeBlanc</Artist>
@@ -39584,7 +39584,7 @@
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>VTES_Praxis Seizure: Brussels</name>
+      <name>VTES_Praxis Seizure - Brussels</name>
       <text>Requires a Camarilla vampire. Title. If this referendum is successful, put this card on the acting vampire to represent the unique Camarilla title of Prince of Brussels. This could lead to a contested title. If the prince is Nosferatu, his or her capacity increases by 1.</text>
       <prop>
         <Capacity>Nosferatu</Capacity>
@@ -39596,7 +39596,7 @@
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>VTES_Praxis Seizure: Cairo</name>
+      <name>VTES_Praxis Seizure - Cairo</name>
       <text>Requires a Camarilla vampire. Title. If this referendum is successful, put this card on the acting vampire to represent the unique Camarilla title of Prince of Cairo. This could lead to a contested title. If the prince is Ventrue, his or her capacity increases by 1.</text>
       <prop>
         <Capacity>Ventrue</Capacity>
@@ -39608,7 +39608,7 @@
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>VTES_Praxis Seizure: Chicago</name>
+      <name>VTES_Praxis Seizure - Chicago</name>
       <text>Requires a Camarilla vampire. Title. If this referendum is successful, put this card on the acting vampire to represent the unique Camarilla title of Prince of Chicago.</text>
       <prop>
         <Artist>Robert McNeill; Jim Nelson</Artist>
@@ -39619,7 +39619,7 @@
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>VTES_Praxis Seizure: Cleveland</name>
+      <name>VTES_Praxis Seizure - Cleveland</name>
       <text>Requires a Camarilla vampire. Title. If this referendum is successful, put this card on the acting vampire to represent the unique Camarilla title of Prince of Cleveland. This could lead to a contested title.</text>
       <prop>
         <Artist>Ne Ne Thomas; Jim Nelson</Artist>
@@ -39630,7 +39630,7 @@
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>VTES_Praxis Seizure: Dallas</name>
+      <name>VTES_Praxis Seizure - Dallas</name>
       <text>Requires a Camarilla vampire. Title. If this referendum is successful, put this card on the acting vampire to represent the unique Camarilla title of Prince of Dallas. This could lead to a contested title.</text>
       <prop>
         <Artist>Richard Thomas; Brian LeBlanc</Artist>
@@ -39641,7 +39641,7 @@
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>VTES_Praxis Seizure: Dublin</name>
+      <name>VTES_Praxis Seizure - Dublin</name>
       <text>Requires a Camarilla vampire. Title. If this referendum is successful, put this card on the acting vampire to represent the unique Camarilla title of Prince of Dublin. This could lead to a contested title.</text>
       <prop>
         <Artist>Harold Arthur McNeill</Artist>
@@ -39652,7 +39652,7 @@
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>VTES_Praxis Seizure: Frankfurt</name>
+      <name>VTES_Praxis Seizure - Frankfurt</name>
       <text>Requires a Camarilla vampire. Title. If this referendum is successful, put this card on the acting vampire to represent the unique Camarilla title of Prince of Frankfurt. This could lead to a contested title.</text>
       <prop>
         <Artist>Steve Casper</Artist>
@@ -39663,7 +39663,7 @@
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>VTES_Praxis Seizure: Geneva</name>
+      <name>VTES_Praxis Seizure - Geneva</name>
       <text>Requires a Camarilla vampire. Title. If this referendum is successful, put this card on the acting vampire to represent the unique Camarilla title of Prince of Geneva. This could lead to a contested title. If the prince is Ventrue, his or her capacity increases by 1.</text>
       <prop>
         <Capacity>Ventrue</Capacity>
@@ -39675,7 +39675,7 @@
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>VTES_Praxis Seizure: Glasgow</name>
+      <name>VTES_Praxis Seizure - Glasgow</name>
       <text>Requires a Camarilla vampire. Title. If this referendum is successful, put this card on the acting vampire to represent the unique Camarilla title of Prince of Glasgow. This could lead to a contested title. If the prince is Gangrel, his or her capacity increases by 1.</text>
       <prop>
         <Capacity>Gangrel</Capacity>
@@ -39687,7 +39687,7 @@
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>VTES_Praxis Seizure: Houston</name>
+      <name>VTES_Praxis Seizure - Houston</name>
       <text>Requires a Camarilla vampire. Title. If this referendum is successful, put this card on the acting vampire to represent the unique Camarilla title of Prince of Houston.</text>
       <prop>
         <Artist>Kaja Foglio; Durwin Talon</Artist>
@@ -39698,7 +39698,7 @@
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>VTES_Praxis Seizure: Istanbul</name>
+      <name>VTES_Praxis Seizure - Istanbul</name>
       <text>Title. Requires a Camarilla vampire. Successful referendum means this card is put on this vampire to represent the unique Camarilla title of Prince of Istanbul, and if this vampire is not an Assamite, lock all Assamites. In this referendum, each ready Assamite gets +1 vote.</text>
       <prop>
         <Artist>Mark Tedin</Artist>
@@ -39709,7 +39709,7 @@
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>VTES_Praxis Seizure: London</name>
+      <name>VTES_Praxis Seizure - London</name>
       <text>Requires a Camarilla vampire. Title. If this referendum is successful, put this card on the acting vampire to represent the unique Camarilla title of Prince of London. This could lead to a contested title.</text>
       <prop>
         <Artist>Pete Venters</Artist>
@@ -39720,7 +39720,7 @@
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>VTES_Praxis Seizure: Miami</name>
+      <name>VTES_Praxis Seizure - Miami</name>
       <text>Requires a Camarilla vampire. Title. If this referendum is successful, put this card on the acting vampire to represent the unique Camarilla title of Prince of Miami.</text>
       <prop>
         <Artist>James Stowe; Richard Thomas</Artist>
@@ -39731,7 +39731,7 @@
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>VTES_Praxis Seizure: Monaco</name>
+      <name>VTES_Praxis Seizure - Monaco</name>
       <text>Requires a Camarilla vampire. Title. If this referendum is successful, put this card on the acting vampire to represent the unique Camarilla title of Prince of Monaco. This could lead to a contested title. If the prince is Toreador, his or her capacity increases by 1.</text>
       <prop>
         <Capacity>Toreador</Capacity>
@@ -39743,7 +39743,7 @@
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>VTES_Praxis Seizure: Paris</name>
+      <name>VTES_Praxis Seizure - Paris</name>
       <text>Requires a Camarilla vampire. Title. If this referendum is successful, put this card on the acting vampire to represent the unique Camarilla title of Prince of Paris. This could lead to a contested title. If the prince is Toreador, his or her capacity increases by 1.</text>
       <prop>
         <Capacity>Toreador</Capacity>
@@ -39755,7 +39755,7 @@
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>VTES_Praxis Seizure: Rome</name>
+      <name>VTES_Praxis Seizure - Rome</name>
       <text>Requires a Camarilla vampire. Title. If this referendum is successful, put this card on the acting vampire to represent the unique Camarilla title of Prince of Rome. This could lead to a contested title. If the prince is Brujah, his or her capacity increases by 1.</text>
       <prop>
         <Capacity>Brujah</Capacity>
@@ -39767,7 +39767,7 @@
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>VTES_Praxis Seizure: Seattle</name>
+      <name>VTES_Praxis Seizure - Seattle</name>
       <text>Requires a Camarilla vampire. Title. If this referendum is successful, put this card on the acting vampire to represent the unique Camarilla title of Prince of Seattle. This could lead to a contested title.</text>
       <prop>
         <Artist>Nicola Leonard; Brian LeBlanc</Artist>
@@ -39778,7 +39778,7 @@
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>VTES_Praxis Seizure: Stockholm</name>
+      <name>VTES_Praxis Seizure - Stockholm</name>
       <text>Requires a Camarilla vampire. Title. If this referendum is successful, put this card on the acting vampire to represent the unique Camarilla title of Prince of Stockholm. This could lead to a contested title. If the prince is Malkavian, his or her capacity increases by 1.</text>
       <prop>
         <Capacity>Malkavian</Capacity>
@@ -39790,7 +39790,7 @@
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>VTES_Praxis Seizure: Venice</name>
+      <name>VTES_Praxis Seizure - Venice</name>
       <text>Title. Requires a Camarilla vampire. Successful referendum means this card is put on this vampire to represent the unique Camarilla title of Prince of Venice, and if this vampire is not Giovanni, lock all Giovanni. In this referendum, each ready Giovanni gets +1 vote.</text>
       <prop>
         <Artist>Mark Tedin; Gines Quinonero</Artist>
@@ -39801,7 +39801,7 @@
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>VTES_Praxis Seizure: Washington, D.C.</name>
+      <name>VTES_Praxis Seizure - Washington, D.C.</name>
       <text>Requires a Camarilla vampire. Title. If this referendum is successful, put this card on the acting vampire to represent the unique Camarilla title of Prince of Washington, D.C.</text>
       <prop>
         <Artist>John Bridges; William O'Connor</Artist>
@@ -41244,7 +41244,7 @@
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>VTES_Reliquary: Akunanse Remains</name>
+      <name>VTES_Reliquary - Akunanse Remains</name>
       <text>Unique equipment. During your unlock phase, choose Abombwe [abo], Animalism [ani] or Fortitude [for]. Until your next unlock phase, the Akunanse with this equipment has an additional level of the chosen Discipline. The Akunanse with this equipment gets +1 bleed and gains 1 capacity: he or she is one generation older.</text>
       <prop>
         <Capacity>+1</Capacity>
@@ -41256,7 +41256,7 @@
       <tablerow>0</tablerow>
     </card>
     <card>
-      <name>VTES_Reliquary: Biague</name>
+      <name>VTES_Reliquary - Biague</name>
       <text>Equipment. During your unlock phase, if the bearer is a ready Laibon, you may look at the top card of any Methuselah's library. If the card does not require a Discipline, show it to all players, and this Laibon may burn a blood to allow you to look at that Methuselah's hand.</text>
       <prop>
         <Artist>Abrar Ajmal</Artist>
@@ -41267,7 +41267,7 @@
       <tablerow>0</tablerow>
     </card>
     <card>
-      <name>VTES_Reliquary: Shango Remains</name>
+      <name>VTES_Reliquary - Shango Remains</name>
       <text>Choose an Assamite in your ash heap or burn 1 pool to choose an Assamite in your uncontrolled region. Remove the chosen Assamite from the game or burn this equipment. Once each turn, except during combat, if the Assamite bearer is ready, they can burn 1 blood to give you +2 hand size until the end of the turn.</text>
       <prop>
         <Artist>Andrew Trabbold</Artist>
@@ -41278,7 +41278,7 @@
       <tablerow>0</tablerow>
     </card>
     <card>
-      <name>VTES_Reliquary: Trinket</name>
+      <name>VTES_Reliquary - Trinket</name>
       <text>Equipment. If the bearer is a ready Laibon, you get +1 hand size. This Laibon may discard up to 3 cards from your hand as a +1 stealth action. A minion may have only one Reliquary: Trinket.</text>
       <prop>
         <Artist>Avery Butterworth</Artist>
@@ -42522,7 +42522,7 @@
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>VTES_Second Tradition: Domain</name>
+      <name>VTES_Second Tradition - Domain</name>
       <text>Requires a prince or justicar. +2 intercept. Also usable by a locked prince or justicar, even if intercept is not yet needed, to burn 1 blood to unlock and attempt to block with +2 intercept.</text>
       <prop>
         <Artist>L. A. Williams; Durwin Talon; Cos Koniotis</Artist>
@@ -43022,7 +43022,7 @@
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>VTES_Shakar: the Hunt</name>
+      <name>VTES_Shakar - the Hunt</name>
       <text>Unique contract. Trifle. Requires a Black Hand vampire. Put this card on a ready minion. Every Black Hand vampire is considered chosen for this contract. Any Black Hand vampire can enter combat with this minion as a +1 stealth (D) action. Burn this card if this minion is not ready.</text>
       <prop>
         <Artist>Javier Santos</Artist>
@@ -43474,7 +43474,7 @@
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>VTES_Sixth Tradition: Destruction</name>
+      <name>VTES_Sixth Tradition - Destruction</name>
       <text>+1 stealth action. Requires a ready prince or justicar. (D) Burn a vampire who has committed diablerie since your last turn.</text>
       <prop>
         <Artist>Kaja Foglio; William O'Connor</Artist>
@@ -45085,7 +45085,7 @@
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>VTES_Taking the Skin: Minion</name>
+      <name>VTES_Taking the Skin - Minion</name>
       <text>[abo] [REFLEX] Cancel a frenzy card played on this vampire as it is played. [abo] Skin. Play when this vampire burns a minion. Put this card on this vampire and unlock him or her. This vampire may bleed an additional time this turn and gets +1 bleed and +1 stealth when bleeding. Burn this card during your discard phase. A minion can have only one skin.</text>
       <prop>
         <Discipline>Abombwe</Discipline>
@@ -45097,7 +45097,7 @@
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>VTES_Taking the Skin: Vulture</name>
+      <name>VTES_Taking the Skin - Vulture</name>
       <text>Skin. [abo] [REFLEX] Cancel a frenzy card played on this vampire as it is played. [abo] +1 intercept, and put this card on this vampire. This vampire has flight [FLIGHT]. Burn this card during your next unlock phase. A minion can have only one skin. [ABO] As above, and this vampire gets an optional maneuver each combat.</text>
       <prop>
         <Discipline>Abombwe</Discipline>
@@ -45598,7 +45598,7 @@
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>VTES_Third Tradition: Progeny</name>
+      <name>VTES_Third Tradition - Progeny</name>
       <text>+1 stealth action. Requires a ready non-Sterile prince or justicar. Put this card in play; it becomes a non-unique 1-capacity Camarilla vampire of the same clan as the acting vampire. You may go through your library (shuffle afterward), ash heap or hand to find a Discipline card for this vampire. Move up to 2 blood from the acting vampire to this vampire. This vampire cannot take any actions this turn.</text>
       <prop>
         <Capacity>1</Capacity>
@@ -46216,7 +46216,7 @@
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>VTES_Trophy: Chosen</name>
+      <name>VTES_Trophy - Chosen</name>
       <text>Master. Trophy. When this card is moved to a vampire, that vampire gains 4 blood, becomes Sabbat and unlocks, or that vampire can choose to burn this card instead. The vampire with this card is Black Hand. If he or she was already Black Hand when receiving this card, he or she is a Seraph.</text>
       <prop>
         <Artist>Thomas Manning</Artist>
@@ -46227,7 +46227,7 @@
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>VTES_Trophy: Clan Respect</name>
+      <name>VTES_Trophy - Clan Respect</name>
       <text>Master. Trophy. When this card enters play, choose a clan. Vampires of the chosen clan cannot block the vampire with this card.</text>
       <prop>
         <Artist>Steve Ellis</Artist>
@@ -46238,7 +46238,7 @@
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>VTES_Trophy: Diablerie</name>
+      <name>VTES_Trophy - Diablerie</name>
       <text>Master. Trophy. The vampire with this card gets +2 stealth when attempting diablerie. Blood hunts cannot be called against this vampire. If this vampire successfully diablerizes another vampire, burn this card at the end of the action.</text>
       <prop>
         <Artist>Chris Richards</Artist>
@@ -46249,7 +46249,7 @@
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>VTES_Trophy: Discipline</name>
+      <name>VTES_Trophy - Discipline</name>
       <text>Master. Trophy. When this card enters play, choose a Discipline. The vampire with this card has the chosen Discipline at the superior level.</text>
       <prop>
         <Artist>Satyr</Artist>
@@ -46260,7 +46260,7 @@
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>VTES_Trophy: Domain</name>
+      <name>VTES_Trophy - Domain</name>
       <text>Master. Trophy. The vampire with this card has +1 intercept. Once each action, this vampire can burn 1 blood to unlock and attempt to block.</text>
       <prop>
         <Artist>John Bridges</Artist>
@@ -46271,7 +46271,7 @@
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>VTES_Trophy: Hunting Ground</name>
+      <name>VTES_Trophy - Hunting Ground</name>
       <text>Master. Trophy. Hunting ground. During your unlock phase, the vampire with this card gains 2 blood from the blood bank. A vampire can gain blood from only one hunting ground card each turn.</text>
       <prop>
         <Artist>Avery Butterworth</Artist>
@@ -46282,7 +46282,7 @@
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>VTES_Trophy: Library</name>
+      <name>VTES_Trophy - Library</name>
       <text>Master. Trophy. The controller of this vampire gets +2 hand size. A vampire may have no more than two Trophy: Libraries.</text>
       <prop>
         <Artist>Becky Jollensten</Artist>
@@ -46293,7 +46293,7 @@
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>VTES_Trophy: No Questions</name>
+      <name>VTES_Trophy - No Questions</name>
       <text>Master. Trophy. Put 2 counters on this card. When the vampire with this card announces an action, he or she may burn a counter from it to make the action unblockable. Burn this card when it has no counters.</text>
       <prop>
         <Artist>Patrick McEvoy</Artist>
@@ -46304,7 +46304,7 @@
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>VTES_Trophy: Progeny</name>
+      <name>VTES_Trophy - Progeny</name>
       <text>Master. Trophy. If this card would be moved to a non-sterile vampire, that vampire's controller takes control of it instead, and it becomes a non-unique vampire of the same clan and sect as that vampire with 2 capacity. He or she may go through his or her library (shuffle afterward), ash heap or hand to find a Discipline card for this new vampire. Move 2 blood from the blood bank to this new vampire.</text>
       <prop>
         <Capacity>2</Capacity>
@@ -46316,7 +46316,7 @@
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>VTES_Trophy: Retainers</name>
+      <name>VTES_Trophy - Retainers</name>
       <text>Master. Trophy. During your unlock phase, if this card is on a vampire, you may search your library (shuffle afterward) or hand for a retainer. This vampire employs that retainer (he or she must meet the requirements, if any). Pay the cost as normal. This is not an action.</text>
       <prop>
         <Artist>Satyr</Artist>
@@ -46327,7 +46327,7 @@
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>VTES_Trophy: Revered</name>
+      <name>VTES_Trophy - Revered</name>
       <text>Master. Trophy. The vampire with this card gets +2 bleed. A vampire may have only one Trophy: Revered.</text>
       <prop>
         <Artist>Imaginary Friends Studios</Artist>
@@ -46338,7 +46338,7 @@
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>VTES_Trophy: Safe Passage</name>
+      <name>VTES_Trophy - Safe Passage</name>
       <text>Master. Trophy. While the vampire with this card is ready, he or she cannot be the target of other Methuselahs' actions.</text>
       <prop>
         <Artist>Glen Osterberger</Artist>
@@ -46349,7 +46349,7 @@
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>VTES_Trophy: Wealth</name>
+      <name>VTES_Trophy - Wealth</name>
       <text>Master. Trophy. When this card is placed on a vampire, put five counters on it. The vampire with this card can use these counters to pay some or all of the blood or pool cost of equipment. Burn this card when the last counter is removed.</text>
       <prop>
         <Artist>David Day</Artist>
@@ -47260,7 +47260,7 @@
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>VTES_Vigil: The Thin Line</name>
+      <name>VTES_Vigil - The Thin Line</name>
       <text>Master: unique hunter-list. Put this card in play. Lock this card to give a Defender +1 intercept when a monster is acting.</text>
       <prop>
         <Artist>Katie McCaskill</Artist>
@@ -47677,7 +47677,7 @@
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>VTES_Watchtower: Chosen are Called</name>
+      <name>VTES_Watchtower - Chosen are Called</name>
       <text>Master: watchtower. Requires a ready Seraph. Put this card in play. You may use a master phase action to draw three cards (discard down to your hand size afterward). Burn this card if another watchtower enters play.</text>
       <prop>
         <Artist>Rik Martin</Artist>
@@ -47688,7 +47688,7 @@
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>VTES_Watchtower: Four Ride Forth</name>
+      <name>VTES_Watchtower - Four Ride Forth</name>
       <text>Master: watchtower. Requires a ready Seraph. Put this card in play. During your discard phase, you may lock this card to unlock any ready Black Hand vampire. Burn this card if another watchtower enters play.</text>
       <prop>
         <Artist>Brian LeBlanc</Artist>
@@ -47699,7 +47699,7 @@
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>VTES_Watchtower: Greatest Fall</name>
+      <name>VTES_Watchtower - Greatest Fall</name>
       <text>Requires a Seraph. Watchtower. In this referendum, each ready Seraph gets 2 additional votes. If this referendum is successful, put this card in play. Lock this card to move 1 blood from the blood bank to a Sabbat vampire in your ready region or your uncontrolled region (not usable during combat). Burn this card if another watchtower enters play.</text>
       <prop>
         <Artist>Chet Masterz</Artist>
@@ -47710,7 +47710,7 @@
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>VTES_Watchtower: The Wolves Feed</name>
+      <name>VTES_Watchtower - The Wolves Feed</name>
       <text>Master: watchtower. Requires at least one Gehenna card in play and a ready Seraph. Black Hand vampires get +1 stealth and may strike for 2R damage. A ready Black Hand vampire you control may lock to cancel a Gehenna card as it is played. During your unlock phase, burn X pool or burn this card, where X is the number of Gehenna cards in play (minimum of 1). Burn this card if another watchtower enters play.</text>
       <prop>
         <Artist>Jeremy McHugh</Artist>
@@ -48360,7 +48360,7 @@
       <tablerow>1</tablerow>
     </card>
     <card>
-      <name>VTES_Domain: Auckland</name>
+      <name>VTES_Domain - Auckland</name>
       <text>+1 stealth action. Requires a Sabbat, Camarilla or Anarch vampire with capacity above 4. Title. Attach this card to the acting vampire. This vampire is the Archbishop, Prince or Baron of Auckland. This vampire has an additional vote in referendums. If this vampire enters torpor, burn this card. NOT FOR LEGAL PLAY</text>
       <prop>
         <Artist>Ke Carlton</Artist>
@@ -48371,7 +48371,7 @@
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>VTES_Domain: Brisbane</name>
+      <name>VTES_Domain - Brisbane</name>
       <text>+1 stealth action. Requires a Sabbat, Camarilla or Anarch vampire with capacity above 4. Title. Attach this card to the acting vampire. This vampire is the Archbishop, Prince or Baron of Brisbane. This vampire has +1 strength. If this vampire enters torpor, burn this card. NOT FOR LEGAL PLAY</text>
       <prop>
         <Artist>Ke Carlton</Artist>
@@ -48382,7 +48382,7 @@
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>VTES_Domain: Canberra</name>
+      <name>VTES_Domain - Canberra</name>
       <text>+1 stealth action. Requires a Sabbat, Camarilla or Anarch vampire with capacity above 4. Title. Attach this card to the acting vampire. This vampire is the Archbishop, Prince or Baron of Canberra. Other vampires have -1 votes in referendums called by this vampire. If this vampire enters torpor, burn this card. NOT FOR LEGAL PLAY</text>
       <prop>
         <Artist>Ke Carlton</Artist>
@@ -48393,7 +48393,7 @@
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>VTES_Domain: Melbourne</name>
+      <name>VTES_Domain - Melbourne</name>
       <text>+1 stealth action. Requires a Sabbat, Camarilla or Anarch vampire with capacity above 4. Title. Attach this card to the acting vampire. This vampire is the Archbishop, Prince or Baron of Melbourne. This vampire has +1 intercept. If this vampire enters torpor, burn this card. NOT FOR LEGAL PLAY</text>
       <prop>
         <Artist>Ke Carlton</Artist>
@@ -48404,7 +48404,7 @@
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>VTES_Domain: Sydney</name>
+      <name>VTES_Domain - Sydney</name>
       <text>+1 stealth action. Requires a Sabbat, Camarilla or Anarch vampire with capacity above 4. Title. Attach this card to the acting vampire. This vampire is the Archbishop, Prince or Baron of Sydney. This vampire has +1 stealth on (D) actions. If this vampire enters torpor, burn this card. If Sarrasine is ready, he may steal this card as a (D) action. NOT FOR LEGAL PLAY</text>
       <prop>
         <Artist>Ke Carlton</Artist>
@@ -48415,7 +48415,7 @@
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>VTES_Domain: Townsville</name>
+      <name>VTES_Domain - Townsville</name>
       <text>+1 stealth action. Requires a Sabbat, Camarilla or Anarch vampire with capacity above 4. Title. Attach this card to the acting vampire. This vampire is the Archbishop, Prince or Baron of Townsville. This vampire has +1 stealth on employ, equip and recruit actions. If this vampire enters torpor, burn this card. NOT FOR LEGAL PLAY</text>
       <prop>
         <Artist>Tim Lynch</Artist>
@@ -48426,7 +48426,7 @@
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>VTES_Domain: Wellington</name>
+      <name>VTES_Domain - Wellington</name>
       <text>+1 stealth action. Requires a Sabbat, Camarilla or Anarch vampire with capacity above 4. Title. Attach this card to the acting vampire. This vampire is the Archbishop, Prince or Baron of Wellington. This vampire has +1 bleed. If this vampire enters torpor, burn this card. NOT FOR LEGAL PLAY</text>
       <prop>
         <Artist>Ke Carlton</Artist>
@@ -49126,7 +49126,7 @@
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>VTES_Demonic Condemnation: Betrayed</name>
+      <name>VTES_Demonic Condemnation - Betrayed</name>
       <text>+1 stealth action. Condemnation.[ser] (D) Lock a younger vampire.[dai] Requires an Infernal vampire. (D) Put this card on a ready minion. Bleed actions cost the minion with this card an additional blood.[DAI] As [dai] above, and the minion's controller burns the top card from his or her library during each of his or her unlock phases. NOT FOR LEGAL PLAY</text>
       <prop>
         <Discipline>Daimoinon/Serpentis</Discipline>
